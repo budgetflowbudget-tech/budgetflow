@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+}
+header {
+    background-color: white;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+.logo {
+    width: 80px;
+    height: auto;
+}
+.tagline {
+    color: gray;
+    font-size: 1rem;
+    margin-top: -5px;
+}
+.cta-btn {
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.chart-section {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 0.9rem;
+    color: gray;
+}
